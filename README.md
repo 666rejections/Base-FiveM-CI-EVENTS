@@ -87,6 +87,14 @@ Simple base containing the new extended Weight, and the main ESX to start a heal
 
 All the essentialmode and es_extended dependencies, the krz_menuperso, the policejob and all the dependencies, a shop with the bahama, an armoury, some jobs and some vehicle functions, doors and others. The double is ready to receive **our** double job with extended in Weight
 
+
+
+# REQUIREMENT
+
+Map Casino here : http://www.mediafire.com/file/40yvveopbc0c8c2/casino.zip/file
+Can't up 300mb on Git :(
+
+
 ## Installation
 
 There's almost nothing to do, start from a zero server with nothing on it or on the database. If necessary delete all files and SQL entries.
