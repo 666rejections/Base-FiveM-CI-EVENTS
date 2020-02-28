@@ -2,6 +2,11 @@
 
 Base simple contenant le nouvel extended en Weight, et les principaux ESX pour commencer un serveur sain sans erreurs, fonctionnels et surtout **plug and play**
 
+# REQUIREMENT
+
+Map Casino here : http://www.mediafire.com/file/40yvveopbc0c8c2/casino.zip/file
+Can't up 300mb on Git :(
+
 
 # Fichiers 
 
