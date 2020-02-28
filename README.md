@@ -4,7 +4,9 @@ Base simple contenant le nouvel extended en Weight, et les principaux ESX pour c
 
 # REQUIREMENT
 
-Map Casino here : http://www.mediafire.com/file/40yvveopbc0c8c2/casino.zip/file
+Map Casino here : http://www.mediafire.com/file/40yvveopbc0c8c2/casino.zip/file AND
+
+Cars addons & skins here : http://www.mediafire.com/file/ligob4epfk07fye/cars.zip/file
 Can't up 300mb on Git :(
 
 
@@ -92,6 +94,9 @@ All the essentialmode and es_extended dependencies, the krz_menuperso, the polic
 # REQUIREMENT
 
 Map Casino here : http://www.mediafire.com/file/40yvveopbc0c8c2/casino.zip/file
+
+Cars addons & skins here : http://www.mediafire.com/file/ligob4epfk07fye/cars.zip/file
+
 Can't up 300mb on Git :(
 
 
