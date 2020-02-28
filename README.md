@@ -71,6 +71,9 @@ GitHub : https://github.com/orgs/CI-EVENTS/teams/fivem
 Website : www.music2000.be
 
 
+### UTILISATION STRICTEMENT RÉSERVÉ POUR UNE UTILISATION PERSONNELLE. UTILISATION, PARTAGE, UPLOAD, OU UTILISER CES FICHIERS AUTRES QUE POUR UNE UTILISATION PERSONNELLE EST INTERDITE; EN LES UTILISANT VOUS ACCEPTEZ LES CONDITIONS PRÉSENTE DANS LA LICENCE.MD
+
+
 # BASE FIVEM CERTIFIED CI-EVENTS
 Simple base containing the new extended Weight, and the main ESX to start a healthy server without errors, functional and above all **plug and play**.
 
@@ -141,3 +144,9 @@ GitHub: https://github.com/orgs/CI-EVENTS/teams/fivem
 Website: www.music2000.be
 
 Translated with www.DeepL.com/Translator (free version)
+
+
+
+
+
+### STRICTLY RESERVED FOR PERSONAL USE. USING, SHARING, UPLOADING, OR USING THESE FILES OTHER THAN FOR PERSONAL USE IS PROHIBITED; BY USING THEM YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THE LICENCE.MD
